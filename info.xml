@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="nl.pum.gittest" type="module">
+  <file>gittest</file>
+  <name>GIT test</name>
+  <description>Just a Civi CRM extension to experiment on GIT behaviour</description>
+  <license>Free - for testing purposes only</license>
+  <maintainer>
+    <author>GitGet</author>
+    <email></email>
+  </maintainer>
+  <releaseDate>2013-12-18</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>This is a new, undeveloped module to be destroyed soon</comments>
+  <civix>
+    <namespace>CRM/Gittest</namespace>
+  </civix>
+</extension>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/gittestpage</path>
+    <page_callback>CRM_Gittest_Page_GITtestpage</page_callback>
+    <title>GITtestpage</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
