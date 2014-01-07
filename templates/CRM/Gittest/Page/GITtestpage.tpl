@@ -3,13 +3,7 @@
 {* Example: Display a variable directly *}
 <p>The current time is {$currentTime}</p>
 
-<p>Line added by Ralph</p>
+<p>Line added and modified by Ruud</p>
 
 {* Example: Display a translated string -- which happens to include a variable *}
 <p>{ts 1=$currentTime}(In your native language) The current time is %1.{/ts}</p>
-
-<<<<<<< HEAD
-<p>And this is added and modified by Ruud</p>
-=======
-<p>And this is modified by Ralph</p>
->>>>>>> 0c74c73376007f58377222e29e4af1405080ded2
